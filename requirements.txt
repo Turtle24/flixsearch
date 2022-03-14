@@ -1,0 +1,10 @@
+fastapi~=0.74.1
+pip~=21.3.1
+wheel~=0.37.1
+anyio~=3.5.0
+sniffio~=1.2.0
+starlette~=0.17.1
+pydantic~=1.9.0
+websockets~=10.2
+PyYAML~=6.0
+setuptools~=60.6.0
