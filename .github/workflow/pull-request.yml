@@ -27,3 +27,6 @@ jobs:
 
       - name: black format
           run: black .
+
+      - name: mypy check
+          run: mypy app
