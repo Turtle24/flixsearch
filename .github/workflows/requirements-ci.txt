@@ -1,2 +1,3 @@
 black
 mypy
+pip~=21.3.1
